@@ -22,8 +22,9 @@ Company Introduction: <br/>
 <br />
 <br />
 Technology & Tool Evaluation and Selection Plan:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<br/>
+<img src="https://github.com/user-attachments/assets/495a4299-5e6a-4c6e-84ca-e52a28c35513" width="80%" height="80%" alt="Disk Sanitization"/>
+<img src="" width="80%" height="80%" alt="Disk Sanitization"/><br />
 <br />
 Requirement List: <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
