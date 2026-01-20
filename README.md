@@ -1,7 +1,7 @@
 <h1>Information Technology Capstone</h1>
 
 <h2>Description</h2>
-act in the role of Project Team Leader to develop a
+Act in the role of Project Team Leader to develop a
 project plan for a fictional corporation <br />
 
 
