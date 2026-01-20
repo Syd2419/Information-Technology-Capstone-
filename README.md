@@ -17,7 +17,7 @@ project plan for a fictional corporation <br />
 
 <p align="center">
 Launch the utility: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src ="https://github.com/user-attachments/assets/0f781b87-02ed-447f-a98a-1bbcfbfba996" width="80%" height="80%" alt="Disk Sanitization"/>
 <br />
 <br />
 Select the disk:  <br/>
