@@ -31,12 +31,14 @@ Requirement List: <br/>
 <br />
 <br />
 Cost Breakdown:  <br/>
+  <br/>
 <img src="https://github.com/user-attachments/assets/ab168897-063d-4e37-b971-e763b08df7f3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Deployment Phases and Components:  <br/>
+  <br/>
 <img src="https://github.com/user-attachments/assets/ae6e93ed-7c51-430a-a6c6-2ac7c673dec6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img src="https://github.com/user-attachments/assets/ae6e93ed-7c51-430a-a6c6-2ac7c673dec6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Sanitization complete:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
