@@ -1,8 +1,9 @@
 <h1>Information Technology Capstone</h1>
 
 <h2>Description</h2>
-Act in the role of Project Team Leader to develop a
-project plan for a fictional corporation <br />
+For this final project the goal was to act in the role of Project Team Leader to develop a
+project plan for an application development and testing tools, or suite of tools. This project 
+will be to evaluate, select, and deploy a technology, for a fictional corporation.<br />
 
 
 <h2>Application Software Used</h2>
