@@ -30,7 +30,7 @@ Requirement List: <br/>
 <img src="https://github.com/user-attachments/assets/b29e6639-7e08-48de-9150-f3201b1ab3ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Cost Breakdown:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
