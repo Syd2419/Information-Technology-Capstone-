@@ -27,7 +27,7 @@ Technology & Tool Evaluation and Selection Plan:  <br/>
 <img src="https://github.com/user-attachments/assets/ebdc947d-8000-4fca-8d3b-18941f082e8e"width="80%" height="80%" alt="Disk Sanitization"/> <br />
 <br />
 Requirement List: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/b29e6639-7e08-48de-9150-f3201b1ab3ad" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
